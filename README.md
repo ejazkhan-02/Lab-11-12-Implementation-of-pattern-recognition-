@@ -1,2 +1,5 @@
 # Lab-11-12-Implementation-of-pattern-recognition-
 Computer Vision lab tasks covering feature scaling, autocorrelation, clustering, PCA, neural networks, handwritten alphabet recognition, and MNIST digit recognition using Python.
+This lab focuses on important preprocessing and feature analysis techniques used in machine learning and computer vision applications. It demonstrates how auto scaling normalizes features with different ranges using StandardScaler so that machine learning models can treat each feature fairly. The lab also explains autocorrelation analysis for detecting repeating patterns in time-series sensor data, such as vibration signals from industrial machines. In addition, feature weighting is used to identify which variables contribute more strongly to model prediction.
+
+The task includes real-world case studies from healthcare, agriculture, finance, manufacturing, and cybersecurity. These examples show how normalization improves medical diagnosis models, autocorrelation helps detect seasonal or cyclic patterns, and feature weighting improves decision-making in credit scoring and intrusion detection systems.
